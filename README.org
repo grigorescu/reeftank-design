@@ -1,0 +1,47 @@
+* Goals
+  1. Health and safety of individuals.
+  2. Safety of property and house.
+  3. Health and safety of tank inhabitants.
+  4. Sustainability and good stewardship of natural resources.
+  5. To provide enjoyment.
+* Corollaries
+** Murphy's Law
+   1. Assume that each piece of equipment will fail eventually.
+   2. Assume simultaneous failures.
+** Electrical
+   1. All work must be done to the latest NEC.
+   2. Outlets must be GFCI protected.
+   3. GFCI testing must be part of regular maintenance.
+   4. GFCI trips of critical equipment must cause an alarm.
+   5. Outlets must be protected from corrosion and spray.
+   6. Cabling must be protected from chewing and other damage.
+   7. Cabling must be run with drip loops, to prevent water draining into the outlet.
+   8. Electric equipment must be UL-approved.
+   9. The tank must be self-sufficient for 72 hours without power.
+** Plumbing
+   1. All work must be done to code.
+   2. No check valves.
+   3. Valves must be used in accordance with their design.
+   4. Each drain must have at least one backup drain, in the case of a blockage.
+   5. Plumbing will be self-sufficient, except for the return pumps.
+   6. Enough extra volume will be built into the sump to accomodate the return pumps not working.
+   7. Enough extra volume will be built into the display tank to accomodate the drains not working.
+   8. Plumbing will be glued.
+   9. Valves will include unions.
+   10. Extra unions will be placed to allow replacement of any portion of the plumbing.
+   11. Leak sensors will be placed where leaks could occur, and periodically tested.
+   12. Plumbing will be FDA food-safe.
+** Water Filtration
+   1. Waste water will be reduced and reused as possible.
+   2. Care will be taken to extend the life of filters and resin.
+   3. Tubing must be protected from chewing and other damage.
+   4. Filters will be FDA food-safe.
+   5. Mur-lok double O-ring fittings will be used.
+** Tank Equipmentt
+   1. Designed to allow easy access and maintenance.
+   2. Well-suited to tank size and conditions.
+   3. Equipment with available spare parts preferred.
+   4. Equipment will be used in accordance with manufacturer's instructions.
+
+
+
